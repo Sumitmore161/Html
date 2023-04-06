@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+table,th,td{
+    border:1.5px solid white;
+    background-color: bluevioletS;
+}
+a{
+    color: lawngreen;   
+}
+a :visited{
+    color: lightgray;
+}
+a:hover,a:active{
+    color : #eee;
+}
